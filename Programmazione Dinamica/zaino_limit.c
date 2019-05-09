@@ -13,7 +13,6 @@ int p[]={10,7,8,6};
 int c=9;
 // Numero di oggetti
 int n = sizeof(p)/sizeof(p[0]); 
-
 // Soluzione
 int dp[n+1][c+1];
 
